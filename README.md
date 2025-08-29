@@ -6,7 +6,7 @@ Aspiring data professional with experience in turning raw data in to dynamic das
 ## Projects -
 
 ### Sales Performance Analysis for Hardware Business
-![Screenshot](https://github.com/Ana9me/Data-Portfolio/blob/main/1024Infrastructure.jpg)
+![Screenshot](https://github.com/Ana9me/Data-Portfolio/blob/main/1024Infrastructure.JPG)
 - Tools: MySQL, Power BI
 1. Analyzed sales, customer, product, and market data using MySQL to track business performance for AtliQ Hardware. 
 2. Performed data cleaning and ETL operations and used DAX functions for analysis in Power BI. 
@@ -17,7 +17,7 @@ Aspiring data professional with experience in turning raw data in to dynamic das
 
 
 ### Pharmaceutical Sales Analysis 
-![Screenshot](https://github.com/Ana9me/Data-Portfolio/blob/main/Pharmaceutics.jpg)
+![Screenshot](https://github.com/Ana9me/Data-Portfolio/blob/main/Pharmaceutics.JPG)
 - Tools: Excel, Power BI 
 1. Imported, cleaned, and transformed pharmaceutical sales data to uncover trends, top-performing drugs, and regional performance metrics. 
 2. Built a dynamic Power BI dashboard to visualize key sales KPIs, enabling data-driven decision-making for stakeholders
@@ -27,7 +27,7 @@ Aspiring data professional with experience in turning raw data in to dynamic das
 
 
 ### PizzaBiz Insights: Interactive Sales & KPI Dashboard
-![Screenshot](https://github.com/Ana9me/Data-Portfolio/blob/main/Screenshot%202025-01-04%20112843.png)
+![Screenshot](https://github.com/Ana9me/Data-Portfolio/blob/main/Screenshot%202025-01-04%20112843.PNG)
 - Tools Used: MySQL & PowerBI
 1. Analyzed pizza sales data to evaluate business performance, identify trends, and derive actionable insights.
 2. Utilized SQL Server for data extraction and Power BI for cleaning, processing (using DAX), and visualization through interactive dashboards.
